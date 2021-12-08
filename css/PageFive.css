@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(236, 235, 235);
+}
+
+.linked{
+    font-size: 18px;
+    font-weight: 700;
+    background-color: none;
+    
+}
+.linked:hover{
+    background-color: white;
+    color: black;
+}
+.masthead {
+    height: 70vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+  }
+.readmore{color: gray;}  
+.readmore:hover{color: green;}  
+
+.cover1 {
+    height: 20vh;
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* opacity: 0.8; */
+  }
